@@ -1,0 +1,1 @@
+./make_example -fmt1 DDMMYYYYhhmmss -f1 06062222102030 -fmt2 DDMMYYYYhhmmss -f2 06062222102030 -u s
